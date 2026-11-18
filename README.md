@@ -1,0 +1,1 @@
+# GameVault Paid Releases\n\nOfficial release distribution for GameVault Lite.
